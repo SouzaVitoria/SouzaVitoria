@@ -1,12 +1,14 @@
 # Vitória Souza 👋
 
-<br><br>
+<br/>
+---
 
 ### Sou desenvolvedora front-end, atualmente focada na área de e-commerce, utilizando a plataforma VTEX. 
  - 💻 Especializada em desenvolvimento VTEX IO e Store Framework.
  - ❤ Cada vez mais apaixonada pelo desenvolvimento de aplicações utilizando JavaScript, React e React Native.
 
-<br><br>
+<br/>
+---
 
 ## 🛠 **Tech Stack**
 
@@ -16,7 +18,7 @@
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-333?style=flat&logo=bootstrap)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![VTEX IO](https://img.shields.io/badge/VTEX-333?style=flat&logo=vtex)
+  ![VTEX IO](https://img.shields.io/badge/VTEXIO-333?style=flat&logo=vtex)
   ![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript)
   ![JQuery](https://img.shields.io/badge/jQuery-333?style=flat&logo=jquery)
   ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
@@ -32,6 +34,9 @@
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![Koa](https://img.shields.io/badge/KoaJs-333?style=flat)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+
+<br/>
+---
 
 ## 📱 **Social Links**
 
