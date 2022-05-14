@@ -1,14 +1,11 @@
 # Vitória Souza 👋
 
-<br/>
----
 
 ### Sou desenvolvedora front-end, atualmente focada na área de e-commerce, utilizando a plataforma VTEX. 
  - 💻 Especializada em desenvolvimento VTEX IO e Store Framework.
  - ❤ Cada vez mais apaixonada pelo desenvolvimento de aplicações utilizando JavaScript, React e React Native.
 
 <br/>
----
 
 ## 🛠 **Tech Stack**
 
@@ -36,7 +33,6 @@
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
 <br/>
----
 
 ## 📱 **Social Links**
 
