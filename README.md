@@ -28,14 +28,13 @@
 ### 📚 **Atualmente estou estudando:**
   ![Next.js](https://img.shields.io/badge/Next.js-333333?style=flat&logo=next.js)
   ![Styled Components](https://img.shields.io/badge/Styled%20Components-333333?style=flat&logo=styledcomponents)
-  ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
-  ![ExpressJs](https://img.shields.io/badge/Express.js-333333?style=flat&logo=express.js)
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   
 ### 📚 **Estudos futuros:**
-  ![Fast Store](https://img.shields.io/badge/FastStore-333?style=flat&logo=vtex)
-  ![Gatsby](https://img.shields.io/badge/Gatsby-333333?style=flat&logo=gatsby)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+  ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
+  ![ExpressJs](https://img.shields.io/badge/Express.js-333333?style=flat&logo=express.js)
   ![Koa](https://img.shields.io/badge/KoaJs-333?style=flat)
+  ![Fast Store](https://img.shields.io/badge/FastStore-333?style=flat&logo=vtex)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
 <br/>
