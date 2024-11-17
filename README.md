@@ -18,6 +18,7 @@
   ![VTEX IO](https://img.shields.io/badge/VTEXIO-333?style=flat&logo=vtex)
   ![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript)
   ![JQuery](https://img.shields.io/badge/jQuery-333?style=flat&logo=jquery)
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
   ![Gitlab](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)
@@ -26,16 +27,15 @@
   
   
 ### 📚 **Atualmente estou estudando:**
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/Next.js-333333?style=flat&logo=next.js)
   ![Styled Components](https://img.shields.io/badge/Styled%20Components-333333?style=flat&logo=styledcomponents)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   
 ### 📚 **Estudos futuros:**
   ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
   ![ExpressJs](https://img.shields.io/badge/Express.js-333333?style=flat&logo=express.js)
   ![Koa](https://img.shields.io/badge/KoaJs-333?style=flat)
   ![Fast Store](https://img.shields.io/badge/FastStore-333?style=flat&logo=vtex)
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
 <br/>
 
